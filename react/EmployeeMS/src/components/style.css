@@ -1,0 +1,13 @@
+.loginPage {
+  background: url("Images/employees.jpeg");
+  background: linear-gradient(rgba(0, 0, 0, 1), rgba(10, 10, 10, 0.7)),
+              url("images/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 120%;
+  height: 100vh;
+}
+
+.hover-effect:hover {
+  background-color: #3f474f ; 
+}
